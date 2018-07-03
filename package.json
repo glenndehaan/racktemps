@@ -1,0 +1,19 @@
+{
+  "name": "racktemps",
+  "version": "0.0.0",
+  "description": "...",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "dev": "nodemon -L --watch ./src ./src/server.js"
+  },
+  "author": "Glenn de Haan",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
