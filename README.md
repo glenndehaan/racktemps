@@ -1,6 +1,6 @@
 # RackTemps
 
-...
+A NodeJS package build for the Raspberry Pi to measure the Temperature in your server rack
 
 ## Structure
 - NodeJS

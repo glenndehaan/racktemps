@@ -1,7 +1,7 @@
 {
   "name": "racktemps",
   "version": "0.0.0",
-  "description": "...",
+  "description": "A NodeJS package build for the Raspberry Pi to measure the Temperature in your server rack",
   "scripts": {
     "start": "node ./src/server.js",
     "dev": "nodemon -L --watch ./src ./src/server.js"
